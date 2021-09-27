@@ -1,1 +1,1 @@
-# symx-ha-integration
+# SymMX-HA-integration
