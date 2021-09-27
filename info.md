@@ -1,3 +1,3 @@
-# Symphony MX Home Assistant Integration
+# Commend Symphony MX
 
 INFO
