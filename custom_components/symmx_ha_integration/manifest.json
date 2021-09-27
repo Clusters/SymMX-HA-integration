@@ -1,5 +1,5 @@
 {
-	"domain": "symx_ha_integration",
+	"domain": "symmx_ha_integration",
 	"name": "Commend Symphony MX",
 	"documentation": "https://github.com/Clusters/symx-ha-integration",
 	"dependencies": [],
