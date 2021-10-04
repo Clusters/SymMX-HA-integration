@@ -1,9 +1,16 @@
 {
-	"domain": "symmx_ha_integration",
-	"name": "Commend Symphony MX",
-	"documentation": "https://github.com/Clusters/SymMX-HA-integration/",
-	"dependencies": [],
-	"codeowners": [],
-	"requirements": [],
-	"iot_class": "local_push"
+  "domain": "symmx_ha_integration",
+  "name": "Commend Symphony MX",
+  "config_flow": false,
+  "documentation": "https://github.com/Clusters/SymMX-HA-integration/",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "version": "1.0.0"
+  "dependencies": ["mqtt"],
+  "codeowners": [
+    "@maximilianfridrich"
+  ],
+  "iot_class": "local_push"
 }
